@@ -9,6 +9,7 @@ abstract class AbstractClass {
         type(); //判断用户类型
         compute(); //不同类型用户的利息计算方式
         getMoney(); //显示利息
+        //显示利息
     }
     UserInfo search(){
         return null;
